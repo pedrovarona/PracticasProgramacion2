@@ -22,7 +22,7 @@ limpiar: Esta regla elimina cualquier archivo .jar y el directorio bin.
 
 compilar: Crea el directorio bin si no existe, luego compila todos los archivos .java encontrados en el proyecto y los coloca en el directorio bin.
 
-jar: Esta regla depende de la regla compilar. Crea un archivo .jar llamado distancia.jar utilizando los archivos compilados en el directorio bin y un archivo de manifiesto especificado por el usuario, en este caso, Manifest.txt.
+jar: Crea un archivo .jar 
 
 ## License
 
