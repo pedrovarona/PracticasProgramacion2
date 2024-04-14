@@ -13,6 +13,17 @@ El proyecto está organizado en dos paquetes principales:
 
 ## Manifest
 
-El archivo `Manifest.txt` especifica la información necesaria para ejecutar el programa. Indica la clase principal que debe ejecutarse y define la ruta de clases con el Class-Path.
+El archivo `Manifest.txt` indica la clase principal que debe ejecutarse.
 
+## Makefile
+El archivo Makefile contiene reglas para la compilación del proyecto:
 
+limpiar: Esta regla elimina cualquier archivo .jar y el directorio bin.
+
+compilar: Crea el directorio bin si no existe, luego compila todos los archivos .java encontrados en el proyecto y los coloca en el directorio bin.
+
+jar: Esta regla depende de la regla compilar. Crea un archivo .jar llamado distancia.jar utilizando los archivos compilados en el directorio bin y un archivo de manifiesto especificado por el usuario, en este caso, Manifest.txt.
+
+## License
+
+El archivo LICENSE contiene los términos y condiciones de la licencia del proyecto, asegurando su uso adecuado y legal.
