@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/famil/Desktop/Practica 5 Progra II/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/famil/Desktop/Practica 5 Progra II/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'algoritmos-grafos 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/famil/Desktop/Practica 5 Progra II/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'algoritmos-grafos 1.0-SNAPSHOT API'
+pr2
+util
+C:\Users\famil\Desktop\Practica 5 Progra II\src\main\java = 1715154309877
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\allclasses-index.html = 1716143317672
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\allpackages-index.html = 1716143317678
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\element-list = 1716143317525
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\help-doc.html = 1716143317720
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\index-all.html = 1716143317708
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\index.html = 1716143317651
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\jquery-ui.overrides.css = 1716143317753
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\member-search-index.js = 1716143317687
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\module-search-index.js = 1716143317681
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\overview-summary.html = 1716143317712
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\overview-tree.html = 1716143317645
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\package-search-index.js = 1716143317683
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\script.js = 1716143317727
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\search.js = 1716143317734
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\stylesheet.css = 1716143317725
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\tag-search-index.js = 1716143317689
+C:\Users\famil\Desktop\Practica 5 Progra II\target\site\apidocs\type-search-index.js = 1716143317685
