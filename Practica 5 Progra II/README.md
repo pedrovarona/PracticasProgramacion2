@@ -10,6 +10,9 @@ El proyecto está organizado en dos paquetes principales:
 
 2. **src.test.GraphTest:** Se encarga de encontrar el camino mas corto entre dos vertices dados. Cuenta con diversos metodos para añadir ejes, vertices, verificar si ciertos ejes se encuentran en el grafo y encontrar dicho camino a traves de varias estructuras auxiliares.
 
+## License
+
+El archivo LICENSE contiene los términos y condiciones de la licencia del proyecto, asegurando su uso adecuado y legal.
 
 ## Comandos Maven
 
@@ -20,15 +23,8 @@ El comando `mvn compile` se utiliza para compilar el proyecto.
 ```bash
 mvn compile
 
-### mvn package
+mvn package
 El comando `mvn package` empaquetara el proyecto. Se compilara el proyecto, se ejecutaran las pruebas y se empaquetara dentro de `target`.
 
-### mvn test
+mvn test
 El comando `mvn test` se utiliza para ejecutar las pruebas unitarias del proyecto. Maven buscará todas las clases de prueba en el directorio src/test/java y ejecutará las pruebas.
-
- 
-
-## License
-
-El archivo LICENSE contiene los términos y condiciones de la licencia del proyecto, asegurando su uso adecuado y legal.
-
