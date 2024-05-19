@@ -6,9 +6,9 @@ Este proyecto en Java encontrara el camino mas corto para llegar de un vertice i
 
 El proyecto está organizado en dos paquetes principales:
 
-1. **src.test.GraphTest:** Contiene la clase principal que sirve como punto de entrada del programa. Esta añadira los aristas necesarias y declara el camino mas corto de la arista 1 a la 4 para verificar si el programa ah conseguido encontrar dicho camino.
+1. **src.test.java.util.GraphTest:** Contiene la clase principal que sirve como punto de entrada del programa. Esta añadira los aristas necesarias y declara el camino mas corto de la arista 1 a la 4 para verificar si el programa ah conseguido encontrar dicho camino.
 
-2. **src.test.GraphTest:** Se encarga de encontrar el camino mas corto entre dos vertices dados. Cuenta con diversos metodos para añadir ejes, vertices, verificar si ciertos ejes se encuentran en el grafo y encontrar dicho camino a traves de varias estructuras auxiliares.
+2. **src.main.java.util.Graph:** Se encarga de encontrar el camino mas corto entre dos vertices dados. Cuenta con diversos metodos para añadir ejes, vertices, verificar si ciertos ejes se encuentran en el grafo y encontrar dicho camino a traves de varias estructuras auxiliares.
 
 ## License
 
